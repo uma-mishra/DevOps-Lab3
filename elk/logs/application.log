@@ -1,0 +1,5 @@
+{"timestamp":"2026-11-18T10:00:00Z","level":"INFO","service":"devops-app","message":"Application started successfully"}
+{"timestamp":"2026-11-18T10:01:00Z","level":"WARNING","service":"devops-app","message":"High memory usage detected"}
+{"timestamp":"2026-11-18T10:02:00Z","level":"ERROR","service":"devops-app","message":"Database connection failed"}
+{"timestamp":"2026-11-18T10:03:00Z","level":"INFO","service":"devops-app","message":"Database connection restored"}
+{"timestamp":"2026-11-18T10:04:00Z","level":"INFO","service":"devops-app","message":"Request processed successfully"}
