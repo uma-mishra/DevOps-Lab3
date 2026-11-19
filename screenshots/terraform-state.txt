@@ -1,2 +1,0 @@
-docker_container.web
-docker_image.nginx

@@ -1,2 +1,0 @@
-PASS: Feature Flag Demo loaded successfully
-PASS: All three feature flags are displayed
